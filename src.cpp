@@ -222,14 +222,3 @@ public:
     }
 };
 
-
-// int main() {
-//     HuffmanEncoder huff("ssaaad");
-//     huff.count_dict(huff.input_text);
-//     string encoded_string = huff.encode_message();
-
-//     string decoded_string = huff.decode_message(encoded_string);
-//     cout << decoded_string;
-
-//     return 0;
-// }
